@@ -7,9 +7,9 @@
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
 - 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
-- ✍️ Writing tech blog posts over my **[Blog Page](http://2012atulsharma.medium.com/)** to help more developers learn from my experience.
-- 💻 In my free time I do Competitive Programming, find me here **[CodeChef](https://www.codechef.com/users/atul_iltwats)**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
-- ⚡ To know more headout to my **[Portfolio](http://iltwats.github.io/)**.
+- ✍️ Writing tech blog posts over my **[Blog Page](http://prakashmajhi.medium.com/)** to help more developers learn from my experience.
+- 💻 In my free time I do Competitive Programming, find me here **[CodeChef]**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
+- ⚡ To know more headout to my **[Portfolio](http://prak899.github.io/)**.
 - 👯 When I'm not coding, find me on the court playing basketball or cricket!😉<br>
 
 **Languages and Tools familiar or experience with:**  
@@ -21,13 +21,8 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code> 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code> 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"></code>
 
 
@@ -39,7 +34,7 @@
       <img
         align="left"
         width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iltwats&theme=react&border=61dafb&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=prak899&theme=react&border=61dafb&hide_border=true"
         alt="Some Records"
       />
     </a>
@@ -47,7 +42,7 @@
       <img
         align="right"
         width="396"
-        src="https://github-readme-stats.vercel.app/api?username=iltwats&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=prak899&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
       />
     </a>
   </div>
