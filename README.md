@@ -47,12 +47,6 @@
   </div>
   <br /><br /><br /><br /><br /><br /><br /><br />
   <div align="center" title="Go to Source">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        width="335"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=prak899&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=Jupyter Notebook,CSS,Makefile,Dockerfile,HTML"
-      />
-    </a>
+    
   </div>
   <br />
