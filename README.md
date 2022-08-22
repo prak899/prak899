@@ -56,33 +56,3 @@
     </a>
   </div>
   <br />
-<p>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on Github.</p>
-<hr>
-<p align="center">
-   <i>Let's connect and chat! Open to anything under the sun.</i>
-  <p align="center">
-    
-    <a href="https://www.linkedin.com/in/prakash-majhi-4805361a9/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:majhi9442@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://prak899.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-  <p align="center">  
-     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Iltwats.visitor-badge"> 
-  </p>
-</p>
-
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
-<!--
-- 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about .
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ....
--->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iltwats&layout=compact&theme=radical&langs_count=10&card_width=300&hide=Makefile" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iltwats&count_private=true&show_icons=true&theme=radical&line_height=27&v=5&include_all_commits=true" alt="Atul's github stats" />
-</a> -->
