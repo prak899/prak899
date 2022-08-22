@@ -5,7 +5,7 @@
 ### I am a self-taught programmer from INDIA. 🔭
 #### Here's a List of things I am currently keeping myself busy with:
 - 🌱 Helping solve local community problems by building <ins>**Android Applications**</ins> that bring impact on people lifes.
-- 🛠  I’m currently learning <ins>Android</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
+- 🛠  I’m currently working on <ins>Android</ins>, <ins>Kotlin</ins>, <ins>Design Patterns</ins> and <ins>Jetpack Compose</ins>.
 - ✍️ Writing tech blog posts over my **[Blog Page](http://prakashmajhi.medium.com/)** to help more developers learn from my experience.
 - 💻 In my free time I do Competitive Programming, find me here **[CodeChef]**, **[CodeForces](https://codeforces.com/profile/Special_octo20)** and **[AtCoder](https://atcoder.jp/users/Special_octo20)**.
 - ⚡ To know more headout to my **[Portfolio](http://prak899.github.io/)**.
